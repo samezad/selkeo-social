@@ -14,9 +14,9 @@
    "Question 1: Do you sell to consumers online?",
    "Question 2: Is your service on the list, like e-commerce?",
    "Question 3: Are you a microenterprise, under 10 employees and €2M or less?",
-   "Yes, yes, no: you’re most likely in scope. See your score now."
+   "Yes, yes, no: you’re most likely in scope. See your score: link in bio, selkeo.com."
   ],
-  "caption": "The EU Accessibility Act has applied since 28 June 2025.\n\nDoes it apply to you? 3 questions:\n\n1. Do you sell to consumers online?\n2. Is your service covered? (e-commerce, consumer banking, e-books, transport tickets…)\n3. Are you a microenterprise? (<10 employees and ≤ €2M turnover or balance sheet)\n\nAnswered yes, yes, no? You’re most likely in scope.\n\nNot sure where your site stands? Selkeo scans it every week and tells you what to fix first.\n\nSave this for later 📌\nGet your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\n#WebAccessibility #EAA #EuropeanAccessibilityAct #Ecommerce #WCAG #SmallBusiness"
+  "caption": "Selling online to customers in the EU? An accessibility law may apply to your website.\n\nThe European Accessibility Act has applied since 28 June 2025. It covers consumer services such as online stores, consumer banking, e-books and transport tickets.\n\nThe three questions in the slides give you a first answer. They are a quick check, not legal advice.\n\nOne exception matters for small businesses: microenterprises that provide services are exempt. That means fewer than 10 employees and a turnover or balance sheet of €2M or less.\n\nNot sure where your site stands today? Get your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\n#EuropeanAccessibilityAct #EAA #WebAccessibility #Ecommerce #OnlineStore"
  },
  {
   "code": "2",
@@ -31,9 +31,9 @@
    "3 alt text mistakes and the fix.",
    "Mistakes: no alt text, the file name IMG_2041.jpg, or just the word image.",
    "Do this: Black wool coat, knee-length, double-breasted. Empty alt for decorative images.",
-   "How many of your images have no alt text? See your score now."
+   "How many of your images have no alt text? Save this post. Check your site at selkeo.com."
   ],
-  "caption": "Alt text is what a screen reader says out loud when it reaches an image.\n\n3 common mistakes:\n❌ No alt text at all\n❌ The file name: IMG_2041.jpg\n❌ Just “image”\n\n✅ The fix: describe what a sighted shopper would notice.\n“Black wool coat, knee-length, double-breasted.”\n\nPurely decorative image? Use an empty alt (alt=\"\") so screen readers skip it.\n\nSave this for your next product upload.\nWant the full list for your site? Get your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\n#WebAccessibility #AltText #Ecommerce #WCAG #EAA"
+  "caption": "Three ways a product photo description goes wrong, and one formula that avoids all of them.\n\nThe mistakes are in the slides. Here is the formula.\n\nFor a product photo, write: color, material, what it is, and one detail a shopper would ask about.\n“Black wool coat, knee-length, double-breasted.”\n\nKeep it to one sentence. If an image is only decoration, leave its alt text empty so screen readers skip it.\n\nSave this for your next product upload 📌\n\n#AltText #WebAccessibility #OnlineStore #Ecommerce #ProductPhotos"
  },
  {
   "code": "A",
@@ -47,14 +47,14 @@
    "en/a/06.jpg"
   ],
   "alt": [
-   "Accessibility basics. What is alt text? And why the images on your site need it. Swipe",
-   "In short. A picture, described in words. Alt text says what’s in an image. It isn’t shown on the page, but a screen reader reads it out loud. Screen reader says. “Black knee-length wool coat”",
-   "Who it’s for. 55,000. people in Finland are visually impaired. Some of them use the web with a screen reader, which reads the page out loud. Source: estimate by the Finnish Federation of the Visually Impaired and THL.",
-   "The problem. Without alt text, a customer may hear: “image” “IMG_2041.jpg” …or nothing at all. They never learn what’s in the picture.",
-   "The fix. The fix is one sentence. 1. Open the image in your site editor. 2. Find the field called “Alt text” or “Alternative text”. 3. Write what the picture shows. Then the screen reader says. “Black knee-length wool coat”",
-   "What about your site? Are your images missing alt text? Selkeo checks your site every week and tells you what to fix first. See your score now."
+   "Accessibility basics: what is alt text, and why the images on your site need it.",
+   "Alt text is a picture described in words. A screen reader reads it out loud.",
+   "55,000 people in Finland are visually impaired. Some use the web with a screen reader.",
+   "Without alt text, a customer may hear “image”, “IMG_2041.jpg” or nothing at all.",
+   "The fix: open the image in your site editor, find the alt text field, write what it shows.",
+   "Are your images missing alt text? Save this post. Check your own site at selkeo.com."
   ],
-  "caption": "What is alt text, and why should you care?\n\nIt’s a short description of an image. It isn’t shown on the page, but a screen reader reads it out loud to a customer who can’t see the picture.\n\nNo alt text? They may hear a file name, or nothing.\n\nThe fix is one sentence:\n1. Open the image in your site editor\n2. Find the “Alt text” field\n3. Write what the picture shows\n\nSave this for your next upload 📌\n\n#WebAccessibility #AltText #Ecommerce #SmallBusiness #WCAG"
+  "caption": "There is a text on your website that most visitors never see, and some customers rely on.\n\nIt is called alt text: a short description attached to an image. A screen reader, software that reads a page out loud, speaks it to a customer who can’t see the picture.\n\nWithout it, they may hear a file name, or nothing.\n\nIn most site builders you can add it yourself. Open the image in your editor, find the “Alt text” field and write what the picture shows. One sentence is enough.\n\nSave this for your next image upload 📌\n\n#AltText #WebAccessibility #SmallBusiness #OnlineStore #WebsiteTips"
  },
  {
   "code": "B",
@@ -67,13 +67,13 @@
    "en/b/05.jpg"
   ],
   "alt": [
-   "Three everyday examples. Your lunch menu is an image. Not everyone can see it. Three common situations and a fix for each. Swipe",
-   "Example 1 · Lunch menu as an image. LUNCH 11–2. Mon. Salmon soup. Tue. Beef stew. Wed. Veggie lasagne. lunch_week47.jpg. A screen reader may say. “lunch_week47.jpg” The fix. Put the menu on the page as text. The image can stay next to it.",
-   "Example 2 · Product photo. IMG_2041.jpg. Wool coat. €189. A screen reader may say. “IMG_2041.jpg” The fix. Alt text: “Black wool coat, knee-length, double-breasted”.",
-   "Example 3 · An offer as an image. −20%. Winter coats until Sunday. banner_final2.png. A screen reader may say. “banner_final2.png” The fix. Alt text: “Winter coats 20% off until Sunday”.",
-   "Recognize your own site? What do the images on your site say? Selkeo checks your site every week and tells you if images are missing alt text. See your score now."
+   "Three everyday examples. Your lunch menu is an image. Not everyone can see it.",
+   "Lunch menu as an image: a screen reader may say lunch_week47.jpg. Fix: add it as text.",
+   "Product photo: a screen reader may say IMG_2041.jpg. Fix: alt text, Black wool coat.",
+   "Offer banner: a screen reader may say banner_final2.png. Fix: alt text, Winter coats 20% off.",
+   "Menu, product photo or offer: which one is on your website? Tell us in the comments."
   ],
-  "caption": "3 everyday images that leave some customers with nothing:\n\n1. The lunch menu as an image → put it on the page as text\n2. A product photo with no alt text → describe what’s in it\n3. An offer as an image → write the offer into the alt text\n\nText inside an image doesn’t reliably reach a screen reader.\n\nSpot your own site? Fix one image today.\n\n#WebAccessibility #AltText #Restaurants #Ecommerce #SmallBusiness"
+  "caption": "Is your lunch menu a photo? Some customers can’t read it.\n\nText inside an image doesn’t reliably reach a screen reader, the software that reads a page out loud. The same goes for an offer banner, or a product photo with no description.\n\nThe slides show three everyday cases and a fix for each. Most of the time you can do it yourself in your site editor: type the text onto the page, or fill in the image’s “Alt text” field.\n\nWhich one is on your website right now: the menu, the product photo or the offer?\n\n#WebAccessibility #AltText #RestaurantMarketing #OnlineStore #SmallBusiness"
  },
  {
   "code": "C",
@@ -87,14 +87,14 @@
    "en/c/06.jpg"
   ],
   "alt": [
-   "WCAG 1.1.1 · Level A. The alt attribute: 4 cases, 4 right answers. Informative, decorative, linked, and text in images. Swipe",
-   "Case 1 · Informative image. The image says something. <img src=\"coat.jpg\" alt=\"Black knee-length wool coat\">. A screen reader says, for example. “Black knee-length wool coat” Alt carries the same information the image gives a sighted user.",
-   "Case 2 · Decorative image. The image is pure decoration. <img src=\"wave.svg\" alt=\"\">. Screen reader. Skips the image. Empty alt, not missing alt. With a missing alt attribute, a screen reader may read the file name.",
-   "Case 3 · Image as a link. The icon goes somewhere. <a href=\"/cart\"> <img src=\"cart.svg\" alt=\"Cart\"> </a>. A screen reader says, for example. “Cart, link” Say where the link goes. Don’t describe the icon. Google uses a linked image’s alt text as the link’s anchor text.",
-   "Case 4 · Text in an image. Lunch menu, offer, opening hours. <!-- Not like this --> <img src=\"lunch.jpg\"> <!-- Like this --> <h2>Lunch 11–2</h2> <ul> <li>Mon: salmon soup</li> </ul>. If text can be real text, make it text. WCAG 1.4.5, Level AA.",
-   "Good to know. Automation finds missing alt text. Not bad alt text. Selkeo runs axe-core checks every week. Whether the text is any good takes a human. See your score now."
+   "The alt attribute: 4 cases, 4 right answers. WCAG 1.1.1, Level A.",
+   "Case 1, informative image: alt carries the same information as the image.",
+   "Case 2, decorative image: use an empty alt so screen readers skip it. Empty, not missing.",
+   "Case 3, image as a link: alt says where the link goes, for example Cart.",
+   "Case 4, text in an image: if it can be real text, make it text. WCAG 1.4.5, Level AA.",
+   "Automation finds missing alt text, not bad alt text. That takes a human. Save this post."
   ],
-  "caption": "The alt attribute in 4 cases (WCAG 1.1.1, Level A):\n\n1. Informative image → alt carries the same information\n2. Decorative image → alt=\"\" (empty, not missing)\n3. Linked image → alt says where the link goes. Google uses it as anchor text\n4. Text in an image → if it can be real text, make it text (WCAG 1.4.5, Level AA)\n\nAutomated checks find missing alt text. Whether it’s any good takes a human.\n\nSave this for your next code review.\n\n#WebAccessibility #WCAG #WebDev #Frontend #AltText #A11y"
+  "caption": "Developers: an empty alt and a missing alt are not the same thing.\n\nalt=\"\" tells a screen reader to skip a decorative image. Leave the attribute out, and it may read the file name instead.\n\nThe slides cover four cases under WCAG 1.1.1 (Level A): informative images, decorative images, linked images and text in images.\n\nOne thing automated checks won’t tell you is whether the alt text is any good. They find the missing ones. Quality takes a human in code review.\n\nSave this for your next code review 📌\n\n#WebAccessibility #A11y #WCAG #WebDev #Frontend"
  },
  {
   "code": "D",
@@ -107,13 +107,13 @@
    "en/d/05.jpg"
   ],
   "alt": [
-   "Read aloud by a screen reader: IMG_2041.jpg. That’s what your best product photo may sound like to some customers. A screen reader is software that reads a web page out loud, for example to a blind customer.",
+   "Read aloud by a screen reader: IMG_2041.jpg. Your best product photo may sound like this.",
    "Screen readers read your site out loud. At an image, they read the alt text or the file name.",
-   "53.1% of the top one million home pages are missing alt text on images. Source: WebAIM Million 2026.",
+   "53.1% of the top one million home pages are missing alt text on images. Source: WebAIM 2026.",
    "Before: IMG_2041.jpg. After: Black knee-length wool coat. One sentence is enough.",
-   "What does your site sound like? See your score now."
+   "What does your site sound like? Save this post. Check your own site at selkeo.com."
   ],
-  "caption": "No alt text? A screen reader may read your product photo as a file name.\n\n53.1% of the top one million home pages are missing alt text on images (WebAIM Million 2026).\n\nThe fix is one sentence: say what’s in the picture.\n❌ IMG_2041.jpg\n✅ Black knee-length wool coat\n\nSave this for your next product upload.\nGet your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\n#WebAccessibility #AltText #Ecommerce #WCAG #EAA"
+  "caption": "Your best product photo may introduce itself as “IMG_2041.jpg”.\n\nThat’s what some shoppers hear in your online store. A screen reader reads the page out loud, and when a product photo has no description (alt text), it may read the file name instead.\n\nIt’s common: 53.1% of the top one million home pages have images with missing alt text (WebAIM Million 2026).\n\nThe fix is one sentence per image. Find the “Alt text” field in your store’s editor and write what a shopper would see.\nBefore: IMG_2041.jpg\nAfter: Black knee-length wool coat\n\nSave this for your next product upload 📌\n\n#WebAccessibility #AltText #OnlineStore #Ecommerce #SmallBusiness"
  },
  {
   "code": "F",
@@ -122,9 +122,9 @@
    "en/f/01.jpg"
   ],
   "alt": [
-   "53.1%. More than half of the top million home pages have images with no alt text. Is yours one of them? Source: WebAIM Million 2026."
+   "53.1% of the top million home pages have images with no alt text. Source: WebAIM Million 2026."
   ],
-  "caption": "53.1% of the top one million home pages have images with no alt text (WebAIM Million 2026).\n\nAlt text is what a screen reader reads out loud when a customer can’t see the image.\n\nThe fix is one sentence per image.\n\nSave this as a reminder 📌\nGet your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\n#WebAccessibility #AltText #Ecommerce #WCAG #EAA"
+  "caption": "More than half of the web’s biggest home pages have images that tell some visitors nothing.\n\nWebAIM tested the top one million home pages in 2026. 53.1% of them had images with missing alt text, the short description a screen reader reads out loud to someone who can’t see the picture.\n\nIt is easy to miss on a small business website too, because nothing looks broken. The photo is there. Only the description is missing.\n\nWant to know if your website is one of them? Get your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\n#WebAccessibility #AltText #SmallBusiness #WebsiteTips #Ecommerce"
  },
  {
   "code": "G",
@@ -133,9 +133,9 @@
    "en/g/01.jpg"
   ],
   "alt": [
-   "Myth. Alt text is just for search engines. Fact. It’s for people: a screen reader reads it out loud when a customer can’t see the image. Search engines benefit from the same text."
+   "Myth: alt text is just for search engines. Fact: it’s for people who can’t see the image."
   ],
-  "caption": "Myth: alt text is just for search engines.\n\nFact: it’s for people. A screen reader reads it out loud when a customer can’t see the image.\n\nSearch engines benefit from the same text. Write it for the customer anyway.\n\nSave this for your next image 📌\n\n#WebAccessibility #AltText #Ecommerce #SEO #WCAG"
+  "caption": "Alt text is not an SEO trick. It is how some customers learn what is in your photos.\n\nA screen reader reads the alt text out loud when someone can’t see the image. That is its first job.\n\nSearch is the bonus: Google also uses alt text to understand what an image shows. One good sentence does both jobs.\n\nSo write it for the customer first. If it would help a person choose, it is good alt text.\n\nWhat did you think alt text was for? Tell us in the comments.\n\n#AltText #WebAccessibility #SEO #SmallBusiness #WebsiteTips"
  },
  {
   "code": "H",
@@ -144,9 +144,9 @@
    "en/h/01.jpg"
   ],
   "alt": [
-   "Text contrast. Can you read this text? 2.0:1 · too low. And this? 17.6:1 · enough. For normal text the minimum is 4.5:1. 83.9% of the top home pages have text below it. Sources: WCAG 1.4.3 (Level AA) and WebAIM Million 2026."
+   "Low-contrast text at 2.0:1 next to clear text at 17.6:1. The minimum for normal text is 4.5:1."
   ],
-  "caption": "Light grey text on a light background looks elegant. Many people can’t read it.\n\nThe minimum contrast for normal text is 4.5:1 (WCAG 1.4.3, Level AA). 83.9% of the top one million home pages have text below it (WebAIM Million 2026).\n\nThe fix is often a single color code.\n\nGet your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\n#WebAccessibility #ColorContrast #WebDesign #WCAG #UX"
+  "caption": "Light grey text on white looks elegant. For visitors with low vision it can be very hard to read.\n\nLow-contrast text was the most common error WebAIM found on the top one million home pages in 2026: 83.9% of them had it.\n\nThe benchmark for normal text is a contrast ratio of at least 4.5:1 (WCAG 1.4.3, Level AA). A free online contrast checker gives you the ratio from two color codes.\n\nThe fix is often a single color code in your site’s theme.\n\nWant to see where your website stands? Get your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\n#ColorContrast #WebAccessibility #WebDesign #SmallBusiness #WebsiteTips"
  },
  {
   "code": "I",
@@ -155,9 +155,9 @@
    "en/i/01.jpg"
   ],
   "alt": [
-   "Save this. Alt text checklist. Every informative image has alt text. Decorative images have an empty alt. A linked image’s alt says where the link goes. Text is on the page as text, not as an image. Alt doesn’t start with “image of”. Go through it before you publish."
+   "Alt text checklist with five points. The full list is written out in the caption."
   ],
-  "caption": "A 5-point alt text checklist:\n\n1. Every informative image has alt text\n2. Decorative images have an empty alt\n3. A linked image’s alt says where the link goes\n4. Text is on the page as text, not as an image\n5. Alt doesn’t start with “image of”. The screen reader already says it’s an image\n\nSave it and run through it before you publish 📌\n\n#WebAccessibility #AltText #Checklist #WCAG #Ecommerce"
+  "caption": "Five checks for every image on your website before you hit publish.\n\nHere is the list as text, so you can copy it:\n\n1. Every image that carries information has alt text\n2. Decorative images have an empty alt, so screen readers skip them\n3. A linked image’s alt says where the link goes\n4. Text is on the page as text, not inside an image\n5. The alt doesn’t start with “image of”. The screen reader already says that\n\nSave this and run through it with your next upload 📌\n\n#AltText #WebAccessibility #Checklist #WebsiteTips #Ecommerce"
  },
  {
   "code": "J",
@@ -166,9 +166,9 @@
    "en/j/01.jpg"
   ],
   "alt": [
-   "A conversation. Customer using a screen reader: What’s in this picture? Your online store: IMG_2041.jpg. Customer: I mean, which product? Your online store: image. This is how your site may answer when a photo has no alt text."
+   "Customer with a screen reader asks what’s in the picture. The store answers: IMG_2041.jpg."
   ],
-  "caption": "No alt text on a product photo? A screen reader may read out the file name, or just “image”.\n\nYour customer never learns what you sell.\n\nThe fix is one sentence: say what’s in the picture.\n\nSave this for your next product upload.\nGet your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\n#WebAccessibility #AltText #Ecommerce #WCAG #EAA"
+  "caption": "If your product page could talk, this is what it may tell some customers.\n\nA shopper using a screen reader asks what is in the picture. With no alt text, the answer may be a file name, or just “image”.\n\nEverything a sighted shopper gets from the photo is missing: the color, the cut, the material.\n\nOne sentence of alt text per photo closes that gap.\n\nCurious what your own online store says? Get your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\n#AltText #WebAccessibility #OnlineStore #Ecommerce #SmallBusiness"
  },
  {
   "code": "K",
@@ -177,9 +177,9 @@
    "en/k/01.jpg"
   ],
   "alt": [
-   "Accessibility glossary. alt text. alt · text · noun. 1. A picture described in words. Not shown on the page, but a screen reader reads it out loud. 2. The text shown in place of an image that fails to load. E.g. “Black knee-length wool coat”"
+   "Glossary: alt text. A picture described in words, read out loud by a screen reader."
   ],
-  "caption": "Accessibility glossary: alt text.\n\nA picture described in words. Not shown on the page, but a screen reader reads it out loud. It also appears in place of an image that fails to load.\n\nWhich term should we explain next? Tell us in the comments.\n\n#WebAccessibility #AltText #A11y #WCAG #Glossary"
+  "caption": "Accessibility words in plain English. First up: alt text.\n\n“Alt” is short for “alternative”. It is the text alternative to an image: a short description that a screen reader reads out loud, and that shows up if the image fails to load.\n\nYou add it in your site editor, in the image’s “Alt text” field.\n\nWhich accessibility term should we explain next? Tell us in the comments.\n\n#AltText #WebAccessibility #A11y #WebsiteTips #SmallBusiness"
  },
  {
   "code": "L",
@@ -188,9 +188,9 @@
    "en/l/01.jpg"
   ],
   "alt": [
-   "The numbers. The six most common accessibility errors. Share of the top one million home pages where the error was found. Low-contrast text. 83.9%. Images missing alt text. 53.1%. Form fields without a label. 51%. Empty links. 46.3%. Empty buttons. 30.6%. Page language not set. 13.5%. Source: WebAIM Million 2026."
+   "Bar chart of the six most common accessibility errors. The numbers are in the caption."
   ],
-  "caption": "The six most common accessibility errors on the top one million home pages (WebAIM Million 2026):\n\n1. Low-contrast text: 83.9%\n2. Images missing alt text: 53.1%\n3. Form fields without a label: 51%\n4. Empty links: 46.3%\n5. Empty buttons: 30.6%\n6. Page language not set: 13.5%\n\nAutomated checks catch all six.\n\nGet your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\n#WebAccessibility #WCAG #A11y #WebDev #UX"
+  "caption": "The same six accessibility errors turn up again and again on the web’s biggest home pages.\n\nWebAIM tests the top one million home pages every year. In 2026 it found errors on 95.9% of them. The six most common, as text:\n\n1. Low-contrast text: 83.9%\n2. Images missing alt text: 53.1%\n3. Form fields without a label: 51%\n4. Empty links: 46.3%\n5. Empty buttons: 30.6%\n6. Page language not set: 13.5%\n\nAutomated checks catch all six, so you don’t have to hunt for them by hand. They don’t catch everything: whether an image description is actually helpful still takes a person.\n\nSee which of the six are on your website. Get your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\n#WebAccessibility #WCAG #WebsiteTips #WebDesign #SmallBusiness"
  },
  {
   "code": "M",
@@ -200,10 +200,10 @@
    "en/m/02.jpg"
   ],
   "alt": [
-   "Quick quiz. Which alt text is better? A. alt=\"coat\" B. alt=\"Black knee-length wool coat\" Answer on the next slide",
-   "The right answer. B. Say what a sighted customer would notice: color, material and cut. Just “coat” doesn’t help anyone choose."
+   "Quick quiz: which alt text is better? A: coat. B: Black knee-length wool coat.",
+   "The right answer is B. Say what a sighted customer would notice: color, material and cut."
   ],
-  "caption": "Which alt text is better? Swipe for the answer →\n\nAlt text is the description a screen reader reads out loud. Good alt text says what a sighted customer would notice.\n\nTell us which one you picked 👇\n\n#WebAccessibility #AltText #Ecommerce #Quiz #WCAG"
+  "caption": "Quick quiz for anyone who uploads product photos: A or B?\n\nTwo descriptions for the same coat. One helps a shopper who can’t see the picture decide. The other only tells them that a coat exists.\n\nComment A or B before you swipe to the answer.\n\nA tip for writing your own: imagine describing the product photo to someone over the phone.\n\n#AltText #WebAccessibility #OnlineStore #Ecommerce #ProductPhotos"
  },
  {
   "code": "N",
@@ -212,8 +212,8 @@
    "en/n/01.jpg"
   ],
   "alt": [
-   "European Accessibility Act. Fewer than 10 employees and a turnover or balance sheet of €2M or less? The Act most likely doesn’t apply to you. Microenterprises that provide services are exempt from the requirements. An accessible site still serves every customer. Source: Directive (EU) 2019/882, Article 4(5)."
+   "Fewer than 10 employees and €2M or less? The Accessibility Act most likely doesn’t apply."
   ],
-  "caption": "Fewer than 10 employees and a turnover or balance sheet of €2M or less? You’re a microenterprise. If you provide services, the European Accessibility Act most likely doesn’t apply to you.\n\nAn accessible site still serves every customer.\n\nSave this if you weren’t sure 📌\n\n#EAA #EuropeanAccessibilityAct #WebAccessibility #SmallBusiness #Microenterprise"
+  "caption": "Running a small business and worried about the European Accessibility Act? You may be exempt.\n\nThe Act leaves out microenterprises that provide services. That means fewer than 10 employees, and an annual turnover or balance sheet total of €2M or less. You need to meet both the headcount limit and the money limit.\n\nThis is a quick guide, not legal advice. If you are close to the limits, check with your national authority.\n\nExempt or not, the same fixes make your website easier to use for every customer.\n\nSave this if you weren’t sure 📌\n\n#EuropeanAccessibilityAct #EAA #SmallBusiness #WebAccessibility #Microenterprise"
  }
 ]
