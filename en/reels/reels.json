@@ -1,0 +1,30 @@
+[
+ {
+  "code": "k",
+  "date": "2026-11-28",
+  "title": "Löydätkö kolme ongelmaa?",
+  "caption": "Can you spot three problems on this page before the countdown ends?\n\nIt is hard, because nothing looks broken. The menu text is too faint to read, the product photo has no description, and the sign-up box has no name. A customer who can’t see the screen well, or at all, gets stuck on each one.\n\nSelkeo checks your website for problems like these every week and tells you how to fix them.\n\nHow many did you find? Tell us in the comments.\n\nVideo description: A web page for a coat shop. After a countdown, three problems are outlined in red: faint menu text, a photo with no description and a form field with no name.\n\n#WebAccessibility #SmallBusiness #WebsiteTips #OnlineStore #Accessibility",
+  "video": "en/reels/k.mp4"
+ },
+ {
+  "code": "u",
+  "date": "2026-12-05",
+  "title": "Aukioloajat kuvan sisällä",
+  "caption": "When does this shop close on Saturday? Easy, until you close your eyes.\n\nIf your opening hours are inside a picture, a screen reader may only read the file name. The same goes for menus, price lists and offers saved as images.\n\nThe fix is simple: type the text onto the page. You can keep the picture next to it.\n\nSave this for the next time you update your hours 📌\n\nVideo description: Opening hours shown as a picture. The picture goes dark and a speech bubble shows the file name “hours_final.png”. Then the hours are read as text: “Saturday, 10 to 15”.\n\n#WebAccessibility #SmallBusiness #WebsiteTips #LocalBusiness #Accessibility",
+  "video": "en/reels/u.mp4"
+ },
+ {
+  "code": "p",
+  "date": "2026-12-12",
+  "title": "Näyttävät samalta, kuulostavat erilta",
+  "caption": "These two product cards look exactly the same. One of them is broken.\n\nYou can’t see the difference, and that is the point. On card B the photo has no description, so a screen reader may read the file name instead of telling the shopper what the product is.\n\nProblems like this are invisible when you look at your own site. Selkeo finds them for you every week and tells you how to fix them.\n\nGet your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\nVideo description: Two identical product cards for a wool coat, A and B. A speech bubble under A says “Black wool coat”. Under B it says “IMG_2041.jpg”, and card B is outlined in red.\n\n#WebAccessibility #OnlineStore #Ecommerce #SmallBusiness #WebsiteTips",
+  "video": "en/reels/p.mp4"
+ },
+ {
+  "code": "r",
+  "date": "2026-12-19",
+  "title": "Etsi puhelinnumero alatunnisteesta",
+  "caption": "Find the phone number in this footer. You have three seconds.\n\nLight grey text on a dark footer looks tidy, but it hides the things customers come looking for: your phone number, address and opening hours.\n\nIt was the most common problem WebAIM found in 2026: 83.9% of the top one million home pages had text that is too faint.\n\nThe fix is often one color code.\n\nSend this to whoever looks after your website.\n\nVideo description: A dark website footer with almost invisible text. After a countdown the text turns bright and the phone number is outlined.\n\n#WebAccessibility #WebDesign #SmallBusiness #WebsiteTips #ColorContrast",
+  "video": "en/reels/r.mp4"
+ }
+]
