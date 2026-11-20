@@ -7,16 +7,18 @@
    "en/s/02.jpg",
    "en/s/03.jpg",
    "en/s/04.jpg",
-   "en/s/05.jpg"
+   "en/s/05.jpg",
+   "en/s/06.jpg"
   ],
   "alt": [
    "Start here. See what stops people from using your website. A weekly accessibility check.",
    "95.9% of the top one million home pages have detectable accessibility errors. WebAIM 2026.",
-   "Selkeo scans your site weekly, gives a score, lists what to fix first and writes a statement.",
+   "Example finding: images must have alternative text. How to fix: add a short description.",
+   "Selkeo scans your site weekly, gives a score, says what to fix first and how.",
    "Good to know: software finds part of the problems, not all. Some things still take a person.",
-   "Get your score in minutes. Free for 7 days, then €29 a month plus VAT. Link in bio, selkeo.com."
+   "Get your score and fix list in minutes. Free for 7 days, then €29 a month plus VAT. selkeo.com."
   ],
-  "caption": "New here? This is Selkeo in five slides.\n\nSelkeo is a weekly accessibility check for small business websites. It scans your site automatically, gives you a score and lists what to fix first, so you don’t have to read the standards yourself.\n\nWhy it matters: WebAIM found accessibility errors on 95.9% of the top one million home pages in 2026. The most common ones are low-contrast text, images with no description and form fields with no label.\n\nOne honest note: automated checks find part of the problems, not all of them. Some things still take a person.\n\nGet your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\n#WebAccessibility #Accessibility #SmallBusiness #WebsiteTips #OnlineStore"
+  "caption": "New here? This is Selkeo in six slides.\n\nSelkeo is a weekly accessibility check for small business websites. It scans your site automatically, gives you a score and tells you what to fix first, and how. You don’t just get a number: each finding says where it is and how to fix it.\n\nWhy it matters: WebAIM found accessibility errors on 95.9% of the top one million home pages in 2026. The most common ones are low-contrast text, images with no description and form fields with no label.\n\nOne honest note: automated checks find part of the problems, not all of them. Some things still take a person.\n\nGet your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\n#WebAccessibility #Accessibility #SmallBusiness #WebsiteTips #OnlineStore"
  },
  {
   "code": "1",
