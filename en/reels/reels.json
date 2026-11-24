@@ -7,11 +7,38 @@
   "video": "en/reels/k.mp4",
   "sound": "Ambient Science by Dragon Studio, first 13 s, used as background under the Pixabay Content License (source per the downloaded file name)",
   "seconds": 13.5,
+  "time": "14:00"
+ },
+ {
+  "code": "v",
+  "date": "2026-11-29",
+  "title": "What a shop tells a visually impaired customer (alt text)",
+  "caption": "Halden, Runa, Lumi, Aalto. Without the photos, could you tell which one is a coat?\n\nMany shops name products like this, so the photo does the explaining. A visually impaired customer who uses a screen reader, software that reads the page out loud, gets the photo’s description instead. If there is none, they may hear a file name, or just “image”.\n\nIn this example only one of the four photos has a description. The fix is one sentence per photo in your shop editor’s “Alt text” field: say what it is, the color and the material.\n\nSave this for your next product upload 📌\n\nVideo description: A phone opens an online shop with four products. The photos go dark and labels show what a screen reader may say: “IMG_2041.jpg”, “DSC_0098.jpg”, “Grey wool beanie with a pom-pom” and “image”. Three photos are outlined in red and one in teal.\n\n#AltText #WebAccessibility #OnlineStore #Ecommerce #SmallBusiness",
+  "sound": "Ambient Science by Dragon Studio, first 13 s, used as background under the Pixabay Content License (source per the downloaded file name)",
+  "seconds": 13.5,
+  "time": "18:00"
+ },
+ {
+  "code": "w",
+  "date": "2026-12-06",
+  "title": "Lunch menu with low vision (contrast)",
+  "caption": "Light grey text looks clean. For a customer with low vision, your prices may simply not be there.\n\nThe video blurs a café’s lunch menu to show the idea. It is a simulation, and real low vision varies from person to person. The pattern holds, though: faint text disappears first, and it is often the text that matters most, like prices, opening hours and the label on a button.\n\nStronger text helps everyone, including anyone reading a phone in bright sunlight. Low-contrast text was the most common problem WebAIM found on the top one million home pages in 2026: 83.9% of them had it.\n\nSend this to whoever looks after your website.\n\nVideo description: A phone opens a café’s lunch menu. The page blurs, and the faint prices, opening hours and button text disappear while the dish names stay readable. Then the faint text turns dark and everything can be read again, even blurred.\n\n#ColorContrast #WebAccessibility #RestaurantMarketing #SmallBusiness #WebsiteTips",
+  "sound": "Ambient Science by Dragon Studio, first 13 s, used as background under the Pixabay Content License (source per the downloaded file name)",
+  "seconds": 13.5,
+  "time": "18:00"
+ },
+ {
+  "code": "x",
+  "date": "2026-12-13",
+  "title": "What an AI assistant reads on a page",
+  "caption": "Some customers now ask an AI assistant to find a service or book a time. Can it read your website?\n\nMany assistants read a page through its text and labels, much like a screen reader does. A picture with no description, an icon button with no name and a form field with no label give them very little to work with.\n\nIn this example the assistant reads the prices. It misses the offer inside the picture, can’t tell which button calls the salon and doesn’t know what the booking field is for.\n\nFixing these doesn’t guarantee that an assistant will recommend you. It does make your site readable to it, and the same fixes help customers who use a screen reader.\n\nGet your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\nVideo description: A phone opens a hair studio’s web page. A line scans down the page: the text and prices are highlighted as read, while the offer picture, three icon buttons and a form field turn into dark boxes labeled “no description”, “no names” and “no label”.\n\n#WebAccessibility #AIAssistant #SmallBusiness #WebsiteTips #LocalBusiness",
+  "sound": "Ambient Science by Dragon Studio, first 13 s, used as background under the Pixabay Content License (source per the downloaded file name)",
+  "seconds": 13.5,
   "time": "18:00"
  },
  {
   "code": "u",
-  "date": "2026-11-29",
+  "date": "2026-12-20",
   "title": "Aukioloajat kuvan sisällä",
   "caption": "When does this shop close on Saturday? Easy, until you close your eyes.\n\nIf your opening hours are inside a picture, a screen reader may only read the file name. The same goes for menus, price lists and offers saved as images.\n\nThe fix is simple: type the text onto the page. You can keep the picture next to it.\n\nSave this for the next time you update your hours 📌\n\nVideo description: Opening hours shown as a picture. The picture goes dark and a speech bubble shows the file name “hours_final.png”. Then the hours are read as text: “Saturday, 10 to 15”.\n\n#WebAccessibility #SmallBusiness #WebsiteTips #LocalBusiness #Accessibility",
   "video": "en/reels/u.mp4",
@@ -21,7 +48,7 @@
  },
  {
   "code": "p",
-  "date": "2026-12-06",
+  "date": "2026-12-27",
   "title": "Näyttävät samalta, kuulostavat erilta",
   "caption": "These two product cards look exactly the same. One of them is broken.\n\nYou can’t see the difference, and that is the point. On card B the photo has no description, so a screen reader may read the file name instead of telling the shopper what the product is.\n\nProblems like this are invisible when you look at your own site. Selkeo finds them for you every week and tells you how to fix them.\n\nGet your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\nVideo description: Two identical product cards for a wool coat, A and B. A speech bubble under A says “Black wool coat”. Under B it says “IMG_2041.jpg”, and card B is outlined in red.\n\n#WebAccessibility #OnlineStore #Ecommerce #SmallBusiness #WebsiteTips",
   "video": "en/reels/p.mp4",
@@ -31,7 +58,7 @@
  },
  {
   "code": "r",
-  "date": "2026-12-13",
+  "date": "2027-01-03",
   "title": "Etsi puhelinnumero alatunnisteesta",
   "caption": "Find the phone number in this footer. You have three seconds.\n\nLight grey text on a dark footer looks tidy, but it hides the things customers come looking for: your phone number, address and opening hours.\n\nIt was the most common problem WebAIM found in 2026: 83.9% of the top one million home pages had text that is too faint.\n\nThe fix is often one color code.\n\nSend this to whoever looks after your website.\n\nVideo description: A dark website footer with almost invisible text. After a countdown the text turns bright and the phone number is outlined.\n\n#WebAccessibility #WebDesign #SmallBusiness #WebsiteTips #ColorContrast",
   "video": "en/reels/r.mp4",
