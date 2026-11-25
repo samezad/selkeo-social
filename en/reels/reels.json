@@ -69,5 +69,45 @@
   "sound": "Ambient Science by Dragon Studio, first 13 s, used as background under the Pixabay Content License (source per the downloaded file name)",
   "seconds": 13,
   "time": "18:00"
+ },
+ {
+  "code": "pizza",
+  "date": "2026-11-27",
+  "title": "Pizza order page: 3 problems marked, 2 more hiding",
+  "hook": "Can you spot 3 problems on this pizza order page?",
+  "caption": "We marked 3 problems on this pizza order page. 2 more are hiding. Can you find them?\n\nNothing looks broken, which is why they are easy to miss. The description is too faint to read, the photo has no description for a customer who uses a screen reader, and the box under the sizes doesn’t say what to type.\n\nTwo more are still on the page. Found them? Tell us in the comments.\n\nSelkeo checks your website for problems like these every week and shows you how to fix each one.\n\nFor viewers who can’t see the video: A phone opens a pizzeria’s order page and the view moves in until the page fills the screen. After a countdown, three problems are outlined in red: faint description text, a pizza photo with no description and an empty box with no name. A note says two more are hiding on the page. They are the pale yellow star rating and the faint link under the order button.\n\n#WebAccessibility #SmallBusiness #WebsiteTips #WebDesign #Accessibility",
+  "tiktok": "We marked 3 problems on this pizza order page. 2 more are hiding. Can you find them?\n\nNothing looks broken, which is why they are easy to miss. Tell us in the comments which 2 you found.\n\nSelkeo checks your website for problems like these every week.\n\nFor viewers who can’t see the video: A phone opens a pizzeria’s order page. Three problems are outlined in red: faint text, a photo with no description and an empty box with no name. Two more are left unmarked: the pale yellow star rating and the faint link under the order button.\n\n#WebAccessibility #SmallBusiness #WebsiteTips #WebDesign #Accessibility",
+  "video": "en/reels/pizza.mp4",
+  "sound": "Ambient Science by Dragon Studio, first 13.5 s, used as background under the Pixabay Content License (source per the downloaded file name)",
+  "seconds": 13.5,
+  "time": "18:00",
+  "first": "tiktok"
+ },
+ {
+  "code": "zoom",
+  "date": "2026-11-28",
+  "title": "The page that won’t let you zoom",
+  "hook": "This text is tiny. So why can’t you zoom in?",
+  "caption": "This text is tiny. So why can’t you zoom in?\n\nSome websites switch off pinch-to-zoom with one setting in the page’s code. On many phones the page then stays the same size, however small the text is. For a customer with low vision, that can mean they can’t read your prices or opening hours at all.\n\nThe fix is to remove that one setting. Selkeo tells you if your site blocks zoom and how to switch it back on.\n\nSend this to whoever runs your site.\n\nFor viewers who can’t see the video: A phone opens a gym’s class timetable in very small text. Two fingers try to zoom in twice and the page stays the same size. A note says zoom is switched off on this page. After the fix, the same gesture makes the text bigger.\n\n#WebAccessibility #SmallBusiness #WebsiteTips #LowVision #Accessibility",
+  "tiktok": "This text is tiny. So why can’t you zoom in?\n\nSome websites switch off pinch-to-zoom with one setting in the page’s code. For a customer with low vision, that can mean they can’t read your prices at all.\n\nSelkeo tells you if your site blocks zoom. Send this to whoever runs your site.\n\nFor viewers who can’t see the video: A phone opens a gym timetable in very small text. Two fingers try to zoom in and the page stays the same size. After the fix, the same gesture makes the text bigger.\n\n#WebAccessibility #SmallBusiness #WebsiteTips #LowVision #Accessibility",
+  "video": "en/reels/zoom.mp4",
+  "sound": "Ambient Science by Dragon Studio, first 13.5 s, used as background under the Pixabay Content License (source per the downloaded file name)",
+  "seconds": 13.5,
+  "time": "18:00",
+  "first": "tiktok"
+ },
+ {
+  "code": "lang",
+  "date": "2026-11-30",
+  "title": "The page that never says what language it is in",
+  "hook": "What does this French bakery sound like to a screen reader?",
+  "caption": "What does this French bakery sound like to a screen reader?\n\nA screen reader is software that reads a page out loud for a visually impaired customer. To pick the right voice, it looks at the language set in the page’s code.\n\nThis page is in French, but it never says so. The screen reader may then read the French words with an English voice, and the result is hard to understand.\n\nThe fix is one short line of code. In WebAIM’s 2026 study of the top million home pages, 13.5% had no language set.\n\nSelkeo tells you if your page is one of them. Send this to whoever runs your site.\n\nFor viewers who can’t see the video: A phone opens a French bakery’s page. A note says the page never says what language it is in, and a box shows how an English voice may mangle the French greeting. After one line of code sets the language to French, the box shows the greeting read correctly.\n\n#WebAccessibility #SmallBusiness #WebsiteTips #ScreenReader #Accessibility",
+  "tiktok": "What does this French bakery sound like to a screen reader?\n\nThis page is in French, but its code never says so. A screen reader may then read it with an English voice. The fix is one short line of code.\n\nSelkeo tells you if your page has no language set. Send this to whoever runs your site.\n\nFor viewers who can’t see the video: A phone opens a French bakery’s page. A box shows how an English voice may mangle the French greeting. After the language is set to French, the greeting is read correctly.\n\n#WebAccessibility #SmallBusiness #WebsiteTips #ScreenReader #Accessibility",
+  "video": "en/reels/lang.mp4",
+  "alt_video": "en/reels/lang-voice.mp4",
+  "sound": "Ambient Science by Dragon Studio, first 13.5 s, used as background under the Pixabay Content License (source per the downloaded file name)",
+  "seconds": 13.5,
+  "time": "18:00",
+  "first": "tiktok"
  }
 ]
