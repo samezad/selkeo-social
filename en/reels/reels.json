@@ -25,7 +25,8 @@
   "caption": "Light grey text looks clean. For a customer with low vision, your prices may simply not be there.\n\nThe video blurs a café’s lunch menu to show the idea. It is a simulation, and real low vision varies from person to person. The pattern holds, though: faint text disappears first, and it is often the text that matters most, like prices, opening hours and the label on a button.\n\nStronger text helps everyone, including anyone reading a phone in bright sunlight. Low-contrast text was the most common problem WebAIM found on the top one million home pages in 2026: 83.9% of them had it.\n\nSend this to whoever looks after your website.\n\nVideo description: A phone opens a café’s lunch menu. The page blurs, and the faint prices, opening hours and button text disappear while the dish names stay readable. Then the faint text turns dark and everything can be read again, even blurred.\n\n#ColorContrast #WebAccessibility #RestaurantMarketing #SmallBusiness #WebsiteTips",
   "sound": "Ambient Science by Dragon Studio, first 13 s, used as background under the Pixabay Content License (source per the downloaded file name)",
   "seconds": 13.5,
-  "time": "18:00"
+  "time": "18:00",
+  "tiktok": true
  },
  {
   "code": "x",
@@ -34,17 +35,19 @@
   "caption": "Some customers now ask an AI assistant to find a service or book a time. Can it read your website?\n\nMany assistants read a page through its text and labels, much like a screen reader does. A picture with no description, an icon button with no name and a form field with no label give them very little to work with.\n\nIn this example the assistant reads the prices. It misses the offer inside the picture, can’t tell which button calls the salon and doesn’t know what the booking field is for.\n\nFixing these doesn’t guarantee that an assistant will recommend you. It does make your site readable to it, and the same fixes help customers who use a screen reader.\n\nGet your score and fix list in minutes. Free for 7 days, cancel anytime → link in bio\n\nVideo description: A phone opens a hair studio’s web page. A line scans down the page: the text and prices are highlighted as read, while the offer picture, three icon buttons and a form field turn into dark boxes labeled “no description”, “no names” and “no label”.\n\n#WebAccessibility #AIAssistant #SmallBusiness #WebsiteTips #LocalBusiness",
   "sound": "Ambient Science by Dragon Studio, first 13 s, used as background under the Pixabay Content License (source per the downloaded file name)",
   "seconds": 13.5,
-  "time": "18:00"
+  "time": "18:00",
+  "tiktok": true
  },
  {
   "code": "u",
   "date": "2026-12-20",
   "title": "Aukioloajat kuvan sisällä",
-  "caption": "When does this shop close on Saturday? Easy, until you close your eyes.\n\nIf your opening hours are inside a picture, a screen reader may only read the file name. The same goes for menus, price lists and offers saved as images.\n\nThe fix is simple: type the text onto the page. You can keep the picture next to it.\n\nSave this for the next time you update your hours 📌\n\nVideo description: Opening hours shown as a picture. The picture goes dark and a speech bubble shows the file name “hours_final.png”. Then the hours are read as text: “Saturday, 10 to 15”.\n\n#WebAccessibility #SmallBusiness #WebsiteTips #LocalBusiness #Accessibility",
+  "caption": "When does this shop close on Saturday? Easy, unless you can’t see the picture.\n\nIf your opening hours are inside a picture, a screen reader may only read the file name. The same goes for menus, price lists and offers saved as images.\n\nThe fix is simple: type the text onto the page. You can keep the picture next to it.\n\nSave this for the next time you update your hours 📌\n\nVideo description: Opening hours shown as a picture. The picture goes dark and a speech bubble shows the file name “hours_final.png”. Then the hours are read as text: “Saturday, 10 to 15”.\n\n#WebAccessibility #SmallBusiness #WebsiteTips #LocalBusiness #Accessibility",
   "video": "en/reels/u.mp4",
   "sound": "Ambient Science by Dragon Studio, first 13 s, used as background under the Pixabay Content License (source per the downloaded file name)",
   "seconds": 13,
-  "time": "18:00"
+  "time": "18:00",
+  "tiktok": true
  },
  {
   "code": "p",
@@ -54,7 +57,8 @@
   "video": "en/reels/p.mp4",
   "sound": "Ambient Science by Dragon Studio, first 13 s, used as background under the Pixabay Content License (source per the downloaded file name)",
   "seconds": 13,
-  "time": "18:00"
+  "time": "18:00",
+  "tiktok": true
  },
  {
   "code": "r",
